@@ -19,17 +19,5 @@ $(document).ready(function(){
 	
 });
 
-$(document).ready(function(){
-	$("#backButton").click(function(){
-		$("img").toggle();
-	});
-	
-});
 
-$(document).ready(function(){
-	$("#frontButton").click(function(){
-		$("img").toggle();
-	});
-	
-});
 
